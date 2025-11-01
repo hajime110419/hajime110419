@@ -19,7 +19,7 @@ Here are some of the projects and activities I'm proud of:
 
 *   🌐 **Open Source Contributor:** Contributed to the Japanese translation for **KDE's "End of 10" initiative**, helping to make important information more accessible.
 *   📺 **TV Appearance:** Featured on TV Asahi's popular program **"Hakase-chan" (博士ちゃん)** as a stationery expert, where I shared my passion for the design and engineering of stationery.
-*   🔬 **Science Olympiad Winner:** Awarded **2nd place (as a 1st-year) and 3rd place (as a 2nd-year)** in the prefectural **Science Olympiad Junior (科学の甲子園ジュニア)**.
+*   🔬 **Science Koshien Winner:** Awarded **2nd place (as a 1st-year) and 3rd place (as a 2nd-year)** in the prefectural **Science Koshien Junior (科学の甲子園ジュニア)**.
 *   📻 **Licensed Amateur Radio Operator:** Hold a 4th-class amateur radio license in Japan, which fuels my interest in hardware and IoT communication.
 
 ## 👨‍💻 What I'm Focused On
