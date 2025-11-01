@@ -9,20 +9,26 @@
 
 ---
 
-I'm a middle school student from Japan, driven by a multifaceted passion that spans from the depths of Linux and Open Source Software to becoming a subject-matter expert in unique fields.
+I'm a middle school student from Japan with a passion for technology, science, and the art of communication. My main tools are **Python** and **Linux**, which I use to explore everything from open-source software to IoT.
 
-My journey is fueled by a relentless curiosity to understand how things work, whether it's compiling a kernel or deconstructing the mechanism of a fountain pen. I believe in the power of sharing knowledge, both through code and communication.
+My core drive is a deep curiosity about how things work—whether it's a Linux kernel, a radio wave, or a piece of finely engineered stationery. I believe in the power of technology to solve real-world problems and am always eager to learn something new.
 
-## 🏆 Achievements & Contributions
+## ✨ Key Achievements & Experiences
 
-I'm proud of my contributions in both the technical and non-technical worlds:
+Here are some of the projects and activities I'm proud of:
 
-*   **Open Source Contributor:** Served as an official Japanese translator for **[KDE's "End of Windows 10" awareness campaign](https://endof10.org/ja/)**. I helped make important information accessible to the Japanese-speaking community.
-*   **TV Appearance:** I was featured on the national Japanese TV program "**博士ちゃん**" (Hakase-chan / Little Professor) by TV Asahi, where I was recognized as a "**Stationery Expert**" for my deep knowledge in the field.
+*   🌐 **Open Source Contributor:** Contributed to the Japanese translation for **KDE's "End of 10" initiative**, helping to make important information more accessible.
+*   📺 **TV Appearance:** Featured on TV Asahi's popular program **"Hakase-chan" (博士ちゃん)** as a stationery expert, where I shared my passion for the design and engineering of stationery.
+*   🔬 **Science Olympiad Winner:** Awarded **2nd place (as a 1st-year) and 3rd place (as a 2nd-year)** in the prefectural **Science Olympiad Junior (科学の甲子園ジュニア)**.
+*   📻 **Licensed Amateur Radio Operator:** Hold a 4th-class amateur radio license in Japan, which fuels my interest in hardware and IoT communication.
 
-## 🛠️ Core Skills: Python & Linux
+## 👨‍💻 What I'm Focused On
 
-My primary tools for building and exploring are Python and the Linux environment.
+*   🌱 **Learning:** I'm currently diving deeper into network protocols, IoT development with Raspberry Pi, and container technologies like Docker.
+*   🔭 **Exploring:** Actively exploring system administration and how to build efficient, secure server environments.
+*   👯 **Collaborating:** I'm looking for opportunities to contribute to open-source projects that align with my interests.
+
+## 🛠️ My Tech Stack
 
 <table>
   <tr>
@@ -52,12 +58,6 @@ My primary tools for building and exploring are Python and the Linux environment
     </td>
   </tr>
 </table>
-
-## 👨‍💻 What I'm Focused On
-
-*   🌱 **Learning:** I'm currently diving deeper into network protocols, IoT development, and container technologies.
-*   🔭 **Exploring:** Actively exploring system administration and how to build efficient, secure server environments.
-*   👯 **Collaborating:** I'm always looking for opportunities to contribute to exciting open-source projects.
 
 ## 📫 Get In Touch
 
