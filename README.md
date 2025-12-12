@@ -24,7 +24,7 @@ Here are some of the projects and activities I'm proud of:
 
 ## 👨‍💻 What I'm Focused On
 
-*   🌱 **Learning:** I'm currently diving deeper into network protocols, IoT development with Raspberry Pi, and container technologies like Docker.
+*   🌱 **Learning:** I'm currently diving deeper into network protocols, Server technologies with Raspberry Pi, and Modarn Linux technologies .
 *   🔭 **Exploring:** Actively exploring system administration and how to build efficient, secure server environments.
 *   👯 **Collaborating:** I'm looking for opportunities to contribute to open-source projects that align with my interests.
 
